@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://cm.micro.blog/2017/08/25/date-addicted-to.html",
+	      	
+			"content_html": "<p>date: 2017-07-18-07-22-30\n<a href=\"http://bigthink.com/21st-century-spirituality/creativity-and-distraction\">Addicted to business</a>. This is an important read as a reminder to myself, and something to reinforce to my kids. </p>\n",
+			"date_published": "2017-08-25T08:04:00-04:00",
+			"url": "http://techartjam.com/2017/08/25/date-addicted-to.html"
+		},
+		
+		{
 			"id": "http://cm.micro.blog/2017/08/25/i-split-my.html",
 	      	
 			"content_html": "<p>I split my micro.blog for my main blog. Still using Blot for longer form and this here micro blog for shorter stuff. Let’s see if the settings are correct. </p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>This morning I put a piece of toast in the toaster, and decided to try some mindful breathing exercises while it cooked. I figured instead of looking at my phone, I’d relax the mind a bit. I closed my eyes and focused on my breathing. Counting the breaths in and out, in and out. I guess it worked, because I sat relaxed and calm for some time, and didn’t even notice the burning smell. </p>\n",
 			"date_published": "2017-05-26T08:44:00-04:00",
 			"url": "http://techartjam.com/2017/05/26/this-morning-i.html"
-		},
-		
-		{
-			"id": "http://cm.micro.blog/2017/05/26/overheard-at-a.html",
-	      	
-			"content_html": "<p>Overheard at a conservation discussion: <em>We are not inheriting this planet from our parents, we are borrowing it from our children</em>. </p>\n",
-			"date_published": "2017-05-26T08:41:00-04:00",
-			"url": "http://techartjam.com/2017/05/26/overheard-at-a.html"
 		}
 		
 	]
