@@ -1,0 +1,89 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Chad Moore",
+	"home_page_url": "http://techartjam.com/",
+	"feed_url": "http://techartjam.com/feed.json",
+	"items": [
+		
+		{
+			"id": "http://cm.micro.blog/2017/08/25/i-split-my.html",
+	      	
+			"content_html": "<p>I split my micro.blog for my main blog. Still using Blot for longer form and this here micro blog for shorter stuff. Let’s see if the settings are correct. </p>\n",
+			"date_published": "2017-08-25T07:46:00-04:00",
+			"url": "http://techartjam.com/2017/08/25/i-split-my.html"
+		},
+		
+		{
+			"id": "http://cm.micro.blog/2017/07/14/test.html",
+	      	
+			"content_html": "<p>Test</p>\n",
+			"date_published": "2017-07-13T21:13:00-04:00",
+			"url": "http://techartjam.com/2017/07/13/test.html"
+		},
+		
+		{
+			"id": "http://cm.micro.blog/2017/07/13/hello-world.html",
+	      	
+			"content_html": "<p>hello, world.</p>\n",
+			"date_published": "2017-07-13T07:23:00-04:00",
+			"url": "http://techartjam.com/2017/07/13/hello-world.html"
+		},
+		
+		{
+			"id": "http://cm.micro.blog/2017/07/13/test.html",
+	      	
+			"content_html": "<p>Test</p>\n",
+			"date_published": "2017-07-12T22:44:00-04:00",
+			"url": "http://techartjam.com/2017/07/12/test.html"
+		},
+		
+		{
+			"id": "http://cm.micro.blog/2017/06/06/i-drove-miles.html",
+	      	
+			"content_html": "<p>I drove 713 miles in May. For several years I drove that much in a <em>week</em>. I’m still understanding how this change is affecting me and the people around me, even a year and a half later.  </p>\n",
+			"date_published": "2017-06-06T15:13:00-04:00",
+			"url": "http://techartjam.com/2017/06/06/i-drove-miles.html"
+		},
+		
+		{
+			"id": "http://cm.micro.blog/2017/05/31/the-alarm-feature.html",
+	      	
+			"content_html": "<p>The alarm feature on the sonos is a game changer at my house. </p>\n",
+			"date_published": "2017-05-30T22:31:00-04:00",
+			"url": "http://techartjam.com/2017/05/30/the-alarm-feature.html"
+		},
+		
+		{
+			"id": "http://cm.micro.blog/2017/05/26/just-hooked-up.html",
+	      	
+			"content_html": "<p>Just hooked up a sonos at the house. Impressive all around. </p>\n",
+			"date_published": "2017-05-26T16:52:00-04:00",
+			"url": "http://techartjam.com/2017/05/26/just-hooked-up.html"
+		},
+		
+		{
+			"id": "http://cm.micro.blog/2017/05/26/this-is-my.html",
+	      	
+			"content_html": "<p>This is my first time at the Rodeo and I want to be sure I don’t fall off the bull and have it run through the china shop with me dangling by a bootstrap.</p>\n",
+			"date_published": "2017-05-26T08:46:00-04:00",
+			"url": "http://techartjam.com/2017/05/26/this-is-my.html"
+		},
+		
+		{
+			"id": "http://cm.micro.blog/2017/05/26/this-morning-i.html",
+	      	
+			"content_html": "<p>This morning I put a piece of toast in the toaster, and decided to try some mindful breathing exercises while it cooked. I figured instead of looking at my phone, I’d relax the mind a bit. I closed my eyes and focused on my breathing. Counting the breaths in and out, in and out. I guess it worked, because I sat relaxed and calm for some time, and didn’t even notice the burning smell. </p>\n",
+			"date_published": "2017-05-26T08:44:00-04:00",
+			"url": "http://techartjam.com/2017/05/26/this-morning-i.html"
+		},
+		
+		{
+			"id": "http://cm.micro.blog/2017/05/26/overheard-at-a.html",
+	      	
+			"content_html": "<p>Overheard at a conservation discussion: <em>We are not inheriting this planet from our parents, we are borrowing it from our children</em>. </p>\n",
+			"date_published": "2017-05-26T08:41:00-04:00",
+			"url": "http://techartjam.com/2017/05/26/overheard-at-a.html"
+		}
+		
+	]
+}
