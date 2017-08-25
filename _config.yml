@@ -1,30 +1,42 @@
-# Dependencies
-# - markdown:         redcarpet
-highlighter:      pygments
+# # # # # # # #
+#   K i k o   #
+# # # # # # # #
 
-# Permalinks
-# - permalink:        pretty
-# - relative_permalinks: true
+# Basic
+# - name: "[TITLE]"
 
-# Setup
-# - title:            '[TITLE]'
-# - tagline:          'A Jekyll theme'
-# - description:      "Powered by <a href=\"http://micro.blog/\">Micro.blog</a>."
-# - url:              "http://[HOSTNAME]"
-# - base# - url:          "[PATH]"
+# - title: "[TITLE]"
+# - description: "Powered by <a href=\"http://micro.blog/\">Micro.blog</a>."
+# - base# - url: "[PATH]" # e.g. /manton or /az/azasdfasdf
+# - url: "http://[HOSTNAME]" # the base hostname & protocol for your site
+# - markdown: kramdown
 # - user# - name: "[USERNAME]"
 
-# - author:
-  # - name:           'Mark Otto'
-  # - url:            https://twitter.com/mdo
+# Navigation
+nav:
+  - # - name:           "About"
+    href:           "/about/"
+  - # - name:           "RSS"
+    href:           "/feed.xml"
 
-# - paginate:         5
+# Sass
+sass:
+  style:            :compressed
 
-# Custom vars
-version:          2.1.0
-
-github:
-  repo:           https://github.com/poole/hyde
+# Scopes
+defaults:
+  -
+    scope:
+      path:         ""
+      type:         "pages"
+    values:
+      layout:       "page"
+  -
+    scope:
+      path:         ""
+      type:         "posts"
+    values:
+      layout:       "post"
 
 title: "Chad Moore"
 tagline: ""
