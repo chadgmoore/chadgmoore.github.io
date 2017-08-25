@@ -6,11 +6,27 @@
 	"items": [
 		
 		{
+			"id": "http://cm.micro.blog/2017/08/25/i-found-a.html",
+	      	
+			"content_html": "<p>I found a really cool tool when looking for a way to export my Kindle highlights &amp; notes.\n<a href=\"http://www.norbauer.com/bookcision/\">Bookcision</a> is super easy and fast and works with the new <a href=\"https://read.amazon.com\">read.kindle.com</a> site. </p>\n",
+			"date_published": "2017-08-25T08:10:00-04:00",
+			"url": "http://techartjam.com/2017/08/25/i-found-a.html"
+		},
+		
+		{
 			"id": "http://cm.micro.blog/2017/08/25/ive-read-the.html",
 	      	
 			"content_html": "<p>I’ve read the books and am caught up on the show. I think the best thing to ever come from Game of Thrones is Key and Peele’s doorman sketch. </p>\n",
 			"date_published": "2017-08-25T08:09:00-04:00",
 			"url": "http://techartjam.com/2017/08/25/ive-read-the.html"
+		},
+		
+		{
+			"id": "http://cm.micro.blog/2017/08/25/apple-proudly-announced.html",
+	      	
+			"content_html": "<p>Apple proudly announced in 2013 that 7.4 trillion push notifications had been pushed through its servers. <a href=\"https://www.wired.com/story/turn-off-your-push-notifications/\">Turn them off</a>!</p>\n",
+			"date_published": "2017-08-25T08:09:00-04:00",
+			"url": "http://techartjam.com/2017/08/25/apple-proudly-announced.html"
 		},
 		
 		{
@@ -67,22 +83,6 @@
 			"content_html": "<p>The alarm feature on the sonos is a game changer at my house. </p>\n",
 			"date_published": "2017-05-30T22:31:00-04:00",
 			"url": "http://techartjam.com/2017/05/30/the-alarm-feature.html"
-		},
-		
-		{
-			"id": "http://cm.micro.blog/2017/05/26/just-hooked-up.html",
-	      	
-			"content_html": "<p>Just hooked up a sonos at the house. Impressive all around. </p>\n",
-			"date_published": "2017-05-26T16:52:00-04:00",
-			"url": "http://techartjam.com/2017/05/26/just-hooked-up.html"
-		},
-		
-		{
-			"id": "http://cm.micro.blog/2017/05/26/this-is-my.html",
-	      	
-			"content_html": "<p>This is my first time at the Rodeo and I want to be sure I don’t fall off the bull and have it run through the china shop with me dangling by a bootstrap.</p>\n",
-			"date_published": "2017-05-26T08:46:00-04:00",
-			"url": "http://techartjam.com/2017/05/26/this-is-my.html"
 		}
 		
 	]
