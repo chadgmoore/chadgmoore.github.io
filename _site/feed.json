@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://cm.micro.blog/2017/08/26/i-wrote-a.html",
+	      	
+			"content_html": "<p>I wrote a piece of advice recently that stated to write down something, anything, about the media that you’re consuming. I’ll likely read less but write more. That’s a trade off I’m willing to make.</p>\n",
+			"date_published": "2017-08-25T21:43:00-04:00",
+			"url": "http://techartjam.com/2017/08/25/i-wrote-a.html"
+		},
+		
+		{
 			"id": "http://cm.micro.blog/2017/08/25/121352.html",
 	      	
 			"content_html": "<p><a href=\"http://wherethelightgathers.com/first-things-first-2\">First things first</a>. The start of my articles for writers on mastering macOS &amp; iOS.</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>hello, world.</p>\n",
 			"date_published": "2017-07-13T07:23:00-04:00",
 			"url": "http://techartjam.com/2017/07/13/hello-world.html"
-		},
-		
-		{
-			"id": "http://cm.micro.blog/2017/07/13/test.html",
-	      	
-			"content_html": "<p>Test</p>\n",
-			"date_published": "2017-07-12T22:44:00-04:00",
-			"url": "http://techartjam.com/2017/07/12/test.html"
 		}
 		
 	]
