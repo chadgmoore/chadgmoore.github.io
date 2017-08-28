@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://cm.micro.blog/2017/08/28/test-from-laptopchrome.html",
+	      	
+			"content_html": "<p>test from laptop/chrome</p>\n",
+			"date_published": "2017-08-28T11:25:00-04:00",
+			"url": "http://techartjam.com/2017/08/28/test-from-laptopchrome.html"
+		},
+		
+		{
 			"id": "http://cm.micro.blog/2017/08/26/122305.html",
 	      	
 			"content_html": "<p><img src=\"http://techartjam.com/uploads/2017/584bfca6d7.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Apple proudly announced in 2013 that 7.4 trillion push notifications had been pushed through its servers. <a href=\"https://www.wired.com/story/turn-off-your-push-notifications/\">Turn them off</a>!</p>\n",
 			"date_published": "2017-08-25T08:09:00-04:00",
 			"url": "http://techartjam.com/2017/08/25/apple-proudly-announced.html"
-		},
-		
-		{
-			"id": "http://cm.micro.blog/2017/08/25/date-addicted-to.html",
-	      	
-			"content_html": "<p>date: 2017-07-18-07-22-30\n<a href=\"http://bigthink.com/21st-century-spirituality/creativity-and-distraction\">Addicted to business</a>. This is an important read as a reminder to myself, and something to reinforce to my kids. </p>\n",
-			"date_published": "2017-08-25T08:04:00-04:00",
-			"url": "http://techartjam.com/2017/08/25/date-addicted-to.html"
 		}
 		
 	]
