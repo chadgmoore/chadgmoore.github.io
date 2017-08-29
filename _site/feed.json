@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://cm.micro.blog/2017/08/29/test-from-ios.html",
+	      	
+			"content_html": "<p>Test from iOS app. </p>\n",
+			"date_published": "2017-08-29T15:08:00-04:00",
+			"url": "http://techartjam.com/2017/08/29/test-from-ios.html"
+		},
+		
+		{
 			"id": "http://cm.micro.blog/2017/08/28/test-from-laptopchrome.html",
 	      	
 			"content_html": "<p>test from laptop/chrome</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>I’ve read the books and am caught up on the show. I think the best thing to ever come from Game of Thrones is Key and Peele’s doorman sketch. </p>\n",
 			"date_published": "2017-08-25T08:09:00-04:00",
 			"url": "http://techartjam.com/2017/08/25/ive-read-the.html"
-		},
-		
-		{
-			"id": "http://cm.micro.blog/2017/08/25/apple-proudly-announced.html",
-	      	
-			"content_html": "<p>Apple proudly announced in 2013 that 7.4 trillion push notifications had been pushed through its servers. <a href=\"https://www.wired.com/story/turn-off-your-push-notifications/\">Turn them off</a>!</p>\n",
-			"date_published": "2017-08-25T08:09:00-04:00",
-			"url": "http://techartjam.com/2017/08/25/apple-proudly-announced.html"
 		}
 		
 	]
