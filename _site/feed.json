@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://cm.micro.blog/2017/08/30/overheard-smoked-salmon.html",
+	      	
+			"content_html": "<p>Overheard: Smoked salmon is the equivalent of <em>fish bacon</em>.</p>\n",
+			"date_published": "2017-08-29T22:10:00-04:00",
+			"url": "http://techartjam.com/2017/08/29/overheard-smoked-salmon.html"
+		},
+		
+		{
 			"id": "http://cm.micro.blog/2017/08/30/last-week-i.html",
 	      	
 			"content_html": "<p>Last week I went to a cult-classic screening of the movie <em>Aliens</em>. I was curious if the film would hold up since it’s 30 years old. The action sequences were riveting not because of the spectacle (although there was spectacle) but because I actually cared about the characters. </p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Test from iOS app</p>\n",
 			"date_published": "2017-08-26T08:15:00-04:00",
 			"url": "http://techartjam.com/2017/08/26/test-from-ios.html"
-		},
-		
-		{
-			"id": "http://cm.micro.blog/2017/08/26/i-wrote-a.html",
-	      	
-			"content_html": "<p>I wrote a piece of advice recently that stated to write down something, anything, about the media that you’re consuming. I’ll likely read less but write more. That’s a trade off I’m willing to make.</p>\n",
-			"date_published": "2017-08-25T21:43:00-04:00",
-			"url": "http://techartjam.com/2017/08/25/i-wrote-a.html"
 		}
 		
 	]
