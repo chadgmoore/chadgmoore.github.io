@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://cm.micro.blog/2017/08/30/looking-for-online.html",
+	      	
+			"content_html": "<p>Looking for online drawing courses for a beginner. Any suggestions? </p>\n",
+			"date_published": "2017-08-29T22:06:00-04:00",
+			"url": "http://techartjam.com/2017/08/29/looking-for-online.html"
+		},
+		
+		{
 			"id": "http://cm.micro.blog/2017/08/29/test-from-chrome.html",
 	      	
 			"content_html": "<p>test from chrome on MacOS</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p><a href=\"http://wherethelightgathers.com/first-things-first-2\">First things first</a>. The start of my articles for writers on mastering macOS &amp; iOS.</p>\n",
 			"date_published": "2017-08-25T08:13:00-04:00",
 			"url": "http://techartjam.com/2017/08/25/121352.html"
-		},
-		
-		{
-			"id": "http://cm.micro.blog/2017/08/25/httpchadgmooregithubioislescountdowncount-down-the.html",
-	      	
-			"content_html": "<p><a href=\"http://chadgmoore.github.io/isles-countdown\">chadgmoore.github.io/isles-cou…</a></p>\n\n<p>Count down the days until the friggin puck drops on the 2017 Islanders season. Reload for fun. </p>\n",
-			"date_published": "2017-08-25T08:11:00-04:00",
-			"url": "http://techartjam.com/2017/08/25/httpchadgmooregithubioislescountdowncount-down-the.html"
 		}
 		
 	]
