@@ -1,0 +1,104 @@
+@import url(https://fonts.googleapis.com/css?family=Rubik);
+@import url('https://fonts.googleapis.com/css?family=Noto+Serif');
+
+body {
+  font-family: 'Rubik', sans-serif;
+  color: #242a2e;
+  font-size: 18px;
+  letter-spacing: .01em;
+  line-height: 1.5;
+}
+
+a.site-title, .site-nav, .post-meta {
+	font-family: 'Noto Serif', serif;
+}
+
+.site-header {
+ padding-top: 80px; 
+ padding-bottom: 30px; 
+ border-bottom: 0px;
+ border-color: #ff5252;
+}
+
+a, a:active, a:visited {
+	color: #ff5252;
+	text-decoration: none;
+}
+
+a:focus, a:hover  { 
+	color: #606c76;
+	text-decoration: none;
+}
+
+.site-nav .page-link, a.site-title, a.site-title:visited { 
+  	color: #ff5252;
+	text-decoration: none;
+}
+
+.site-nav:hover .page-link:hover, a.site-title:focus, a.site-title:hover { 
+  	color: #606c76;
+	text-decoration: none;
+}
+
+img {
+ 	width: 100%;
+  	border-radius: 3px;
+	height: auto;
+    position: relative;
+    display: block; 
+}
+
+.post-header {
+  margin-bottom: 0px;
+}
+
+.post-list > li {
+	margin-bottom: 100px;
+}
+
+.e-content {
+    margin-top: 10px;
+}
+
+p.post-meta {
+  margin-bottom: 0px;
+}
+
+time.dt-published {
+  font-size: 22px;
+
+}
+
+span.post-meta {
+    color: #ff5252;
+}
+
+a:visited span.post-meta {
+       color: #ff5252;
+}
+
+a:hover span.post-meta, a:active span.post-meta {
+    color: #606c76;
+}
+
+pre, code {
+border: 1px solid #fff1c3;
+background-color: #fffbe0;
+  color: #625834;
+    white-space: pre-wrap;       /* Since CSS 2.1 */
+    white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
+    white-space: -pre-wrap;      /* Opera 4-6 */
+    white-space: -o-pre-wrap;    /* Opera 7 */
+    word-wrap: break-word;       /* Internet Explorer 5.5+ */
+}
+
+/* Layout */
+.wrapper {
+  max-width: -webkit-calc(600px - (30px * 2));
+  max-width: calc(600px - (30px * 2));
+}
+
+.footer-col-3 {
+  width: -webkit-calc(60% - (30px / 2));
+  width: calc(60% - (30px / 2));
+}
