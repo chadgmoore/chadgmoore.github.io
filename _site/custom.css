@@ -17,11 +17,11 @@ a.site-title, .site-nav, .post-meta {
  padding-top: 80px; 
  padding-bottom: 30px; 
  border-bottom: 0px;
- border-color: #ff5252;
+ border-color: #14ABFC;
 }
 
 a, a:active, a:visited {
-	color: #ff5252;
+	color: #14ABFC;
 	text-decoration: none;
 }
 
@@ -31,7 +31,7 @@ a:focus, a:hover  {
 }
 
 .site-nav .page-link, a.site-title, a.site-title:visited { 
-  	color: #ff5252;
+  	color: #14ABFC;
 	text-decoration: none;
 }
 
@@ -70,11 +70,11 @@ time.dt-published {
 }
 
 span.post-meta {
-    color: #ff5252;
+    color: #14ABFC;
 }
 
 a:visited span.post-meta {
-       color: #ff5252;
+       color: #14ABFC;
 }
 
 a:hover span.post-meta, a:active span.post-meta {
