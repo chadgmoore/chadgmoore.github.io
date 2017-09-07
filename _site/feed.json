@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://cm.micro.blog/2017/09/07/great-talk-with.html",
+	      	
+			"content_html": "<p>Great talk with a friend tonight. Solid ideas exchanged and built upon. I try to do these calls every six weeks. Been slacking for the last several months. Good to get going again. <a href=\"http://wherethelightgathers.com/e6w\">wherethelightgathers.com/e6w</a></p>\n",
+			"date_published": "2017-09-07T19:52:00-04:00",
+			"url": "http://techartjam.com/2017/09/07/great-talk-with.html"
+		},
+		
+		{
 			"id": "http://cm.micro.blog/2017/09/07/an-old-military.html",
 	      	
 			"content_html": "<p>An old military quote that (I beleive) applies to modern day project managment: <em>My centre is giving way, my right is retreating, situation excellent, I am attacking</em>.</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Looking for online drawing courses for a beginner. Any suggestions? </p>\n",
 			"date_published": "2017-08-29T22:06:00-04:00",
 			"url": "http://techartjam.com/2017/08/29/looking-for-online.html"
-		},
-		
-		{
-			"id": "http://cm.micro.blog/2017/08/29/test-from-chrome.html",
-	      	
-			"content_html": "<p>test from chrome on MacOS</p>\n",
-			"date_published": "2017-08-29T15:18:00-04:00",
-			"url": "http://techartjam.com/2017/08/29/test-from-chrome.html"
 		}
 		
 	]
