@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://cm.micro.blog/2017/09/15/while-at-pet.html",
+	      	
+			"content_html": "<p>While at pet shop looking at hamsters. </p>\n\n<p>Me: man it takes a lot of those things to make a <em>ham-sandwich</em>\nKids: gasp!\nMe: you kids don’t like my jokes, huh?\nDaughter: we would if they were funny </p>\n",
+			"date_published": "2017-09-14T20:12:00-04:00",
+			"url": "http://techartjam.com/2017/09/14/while-at-pet.html"
+		},
+		
+		{
 			"id": "http://cm.micro.blog/2017/09/13/gave-my-leadership.html",
 	      	
 			"content_html": "<p>Gave my Leadership for Animators (and other creative people too) talk tonight. Good mix of students and working animators. Great questions from the crowd. </p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Interesting note on digital vs. analog note taking. I’m mostly digital, and tryng to find my way back to analog. </p>\n\n<p><a href=\"http://www.danpink.com/pinkcast/pinkcast-2-2-why-you-should-take-notes-by-hand/\">www.danpink.com/pinkcast/…</a></p>\n",
 			"date_published": "2017-08-30T11:57:00-04:00",
 			"url": "http://techartjam.com/2017/08/30/interesting-note-on.html"
-		},
-		
-		{
-			"id": "http://cm.micro.blog/2017/08/30/overheard-smoked-salmon.html",
-	      	
-			"content_html": "<p>Overheard: Smoked salmon is the equivalent of <em>fish bacon</em>.</p>\n",
-			"date_published": "2017-08-29T22:10:00-04:00",
-			"url": "http://techartjam.com/2017/08/29/overheard-smoked-salmon.html"
 		}
 		
 	]
