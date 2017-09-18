@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://cm.micro.blog/2017/09/18/httpsaudionoteshkmahspibyo.html",
+	      	
+			"content_html": "<p><a href=\"https://audionot.es/hkMahSPiBYO\">audionot.es/hkMahSPiB…</a></p>\n",
+			"date_published": "2017-09-18T15:45:00-04:00",
+			"url": "http://techartjam.com/2017/09/18/httpsaudionoteshkmahspibyo.html"
+		},
+		
+		{
 			"id": "http://cm.micro.blog/2017/09/18/intersting-webinar-upcoming.html",
 	      	
 			"content_html": "<p>Intersting webinar upcoming for applying Design Thinking to your every day work: <a href=\"https://mural.co/webinars/luma/\">mural.co/webinars/…</a></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>It is beginning. </p>\n\n<p><img src=\"http://techartjam.com/uploads/2017/b734e6d13c.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2017-09-06T22:02:00-04:00",
 			"url": "http://techartjam.com/2017/09/06/it-is-beginning.html"
-		},
-		
-		{
-			"id": "http://cm.micro.blog/2017/09/02/getting-ready-for.html",
-	      	
-			"content_html": "<p>Getting ready for <em>The Big Sick</em>. </p>\n",
-			"date_published": "2017-09-02T19:06:00-04:00",
-			"url": "http://techartjam.com/2017/09/02/getting-ready-for.html"
 		}
 		
 	]
