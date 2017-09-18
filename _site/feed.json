@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://cm.micro.blog/2017/09/18/lots-of-clearing.html",
+	      	
+			"content_html": "<p>Lots of clearing being done at Stratham Hill Park. Not sure if there was a fire, or other reason. Sadly there were too many wasp nests on the fire tower to climb. But a good short hike for the family nonetheless. </p>\n\n<p><img src=\"http://techartjam.com/uploads/2017/b94636a1db.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2017-09-17T21:25:00-04:00",
+			"url": "http://techartjam.com/2017/09/17/lots-of-clearing.html"
+		},
+		
+		{
 			"id": "http://cm.micro.blog/2017/09/15/while-at-pet.html",
 	      	
 			"content_html": "<p>While at pet shop looking at hamsters. </p>\n\n<p>Me: man it takes a lot of those things to make a <em>ham-sandwich</em>\nKids: gasp!\nMe: you kids don’t like my jokes, huh?\nDaughter: we would if they were funny </p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>A friend is giving me some drawing lessons. This is where I’m starting. <em>You have to make 1000 bad drawings before you make your first good drawing</em>. This is my first bad one. :D</p>\n\n<p><img src=\"http://techartjam.com/uploads/2017/4538879ff9.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2017-08-30T15:18:00-04:00",
 			"url": "http://techartjam.com/2017/08/30/a-friend-is.html"
-		},
-		
-		{
-			"id": "http://cm.micro.blog/2017/08/30/interesting-note-on.html",
-	      	
-			"content_html": "<p>Interesting note on digital vs. analog note taking. I’m mostly digital, and tryng to find my way back to analog. </p>\n\n<p><a href=\"http://www.danpink.com/pinkcast/pinkcast-2-2-why-you-should-take-notes-by-hand/\">www.danpink.com/pinkcast/…</a></p>\n",
-			"date_published": "2017-08-30T11:57:00-04:00",
-			"url": "http://techartjam.com/2017/08/30/interesting-note-on.html"
 		}
 		
 	]
