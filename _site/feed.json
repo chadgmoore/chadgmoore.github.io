@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://cm.micro.blog/2017/09/21/whats-the-best.html",
+	      	
+			"content_html": "<p>What’s the best video conferencing tool for ad-hoc meetings, where two or more people just jump in live, without pre-scheduling and has screen sharing capabilities? </p>\n",
+			"date_published": "2017-09-21T13:30:00-04:00",
+			"url": "http://techartjam.com/2017/09/21/whats-the-best.html"
+		},
+		
+		{
 			"id": "http://cm.micro.blog/2017/09/21/today-is-going.html",
 	      	
 			"content_html": "<p>Today is going to be a good day. </p>\n\n<p><img src=\"http://techartjam.com/uploads/2017/0d77ddcac3.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Great talk with a friend tonight. Solid ideas exchanged and built upon. I try to do these calls every six weeks. Been slacking for the last several months. Good to get going again. <a href=\"http://wherethelightgathers.com/e6w\">wherethelightgathers.com/e6w</a></p>\n",
 			"date_published": "2017-09-07T19:52:00-04:00",
 			"url": "http://techartjam.com/2017/09/07/great-talk-with.html"
-		},
-		
-		{
-			"id": "http://cm.micro.blog/2017/09/07/an-old-military.html",
-	      	
-			"content_html": "<p>An old military quote that (I beleive) applies to modern day project managment: <em>My centre is giving way, my right is retreating, situation excellent, I am attacking</em>.</p>\n",
-			"date_published": "2017-09-07T09:49:00-04:00",
-			"url": "http://techartjam.com/2017/09/07/an-old-military.html"
 		}
 		
 	]
