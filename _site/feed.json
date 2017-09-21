@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://cm.micro.blog/2017/09/21/today-is-going.html",
+	      	
+			"content_html": "<p>Today is going to be a good day. </p>\n\n<p><img src=\"http://techartjam.com/uploads/2017/0d77ddcac3.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2017-09-21T06:46:00-04:00",
+			"url": "http://techartjam.com/2017/09/21/today-is-going.html"
+		},
+		
+		{
 			"id": "http://cm.micro.blog/2017/09/18/httpsaudionoteshkmahspibyo.html",
 	      	
 			"content_html": "<p><a href=\"https://audionot.es/hkMahSPiBYO\">audionot.es/hkMahSPiB…</a></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>An old military quote that (I beleive) applies to modern day project managment: <em>My centre is giving way, my right is retreating, situation excellent, I am attacking</em>.</p>\n",
 			"date_published": "2017-09-07T09:49:00-04:00",
 			"url": "http://techartjam.com/2017/09/07/an-old-military.html"
-		},
-		
-		{
-			"id": "http://cm.micro.blog/2017/09/07/it-is-beginning.html",
-	      	
-			"content_html": "<p>It is beginning. </p>\n\n<p><img src=\"http://techartjam.com/uploads/2017/b734e6d13c.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2017-09-06T22:02:00-04:00",
-			"url": "http://techartjam.com/2017/09/06/it-is-beginning.html"
 		}
 		
 	]
