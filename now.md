@@ -3,6 +3,13 @@ title: "Now"
 permalink: "/now/"
 layout: page
 order: 2
-date: 2017-08-25 16:50 -0400
+date: 2017-09-21 22:16 -0400
 ---
-I live near Portsmouth, New Hampshire. I am working hard to be the best parent, and husband I can be. I'm currently writing articles for writers on mastering macOS & iOS at [Where the Lightgathers](http://wherethelightgathers.com). Say hi by [email](mailto:chad@chadmoore.net) or [twitter](http://www.twitter.com/@chad_g_moore).
+I live near Portsmouth, New Hampshire. I am working hard to be the best parent, and husband I can be. In addition to my day job, I am actively working on the following:
+
+- Developing a course on using Markdown for WordPress
+- Building a coaching program on [Leadership for Animators](http://www.riggingdojo.com/2017/08/19/leadership/) (and other creative people too) on [Rigging Dojo](http://www.riggingdojo.com).
+
+Say hi by [email](mailto:chad@chadmoore.net).
+
+"Now" is inspired by [Derek Sivers](https://sivers.org/now) and [Toku McCree](http://unexecutive.com/now).
