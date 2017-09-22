@@ -6,14 +6,6 @@
 	"items": [
 		
 		{
-			"id": "http://cm.micro.blog/2017/09/22/test-i-broke.html",
-	      	
-			"content_html": "<p>Test. I broke the internet.</p>\n",
-			"date_published": "2017-09-21T22:39:00-04:00",
-			"url": "http://chadmoore.net/2017/09/21/test-i-broke.html"
-		},
-		
-		{
 			"id": "http://cm.micro.blog/2017/09/22/gratitude.html",
 	      	
 			"title": "Gratitude",
@@ -34,7 +26,7 @@
 		{
 			"id": "http://cm.micro.blog/2017/09/21/today-is-going.html",
 	      	
-			"content_html": "<p>Today is going to be a good day. </p>\n\n<p><img src=\"http://techartjam.com/uploads/2017/0d77ddcac3.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"content_html": "<p>Today is going to be a good day. </p>\n\n<p><img src=\"http://chadmoore.net/uploads/2017/0d77ddcac3.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2017-09-21T06:46:00-04:00",
 			"url": "http://chadmoore.net/2017/09/21/today-is-going.html"
 		},
@@ -58,7 +50,7 @@
 		{
 			"id": "http://cm.micro.blog/2017/09/18/lots-of-clearing.html",
 	      	
-			"content_html": "<p>Lots of clearing being done at Stratham Hill Park. Not sure if there was a fire, or other reason. Sadly there were too many wasp nests on the fire tower to climb. But a good short hike for the family nonetheless. </p>\n\n<p><img src=\"http://techartjam.com/uploads/2017/b94636a1db.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"content_html": "<p>Lots of clearing being done at Stratham Hill Park. Not sure if there was a fire, or other reason. Sadly there were too many wasp nests on the fire tower to climb. But a good short hike for the family nonetheless. </p>\n\n<p><img src=\"http://chadmoore.net/uploads/2017/b94636a1db.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2017-09-17T21:25:00-04:00",
 			"url": "http://chadmoore.net/2017/09/17/lots-of-clearing.html"
 		},
@@ -82,9 +74,17 @@
 		{
 			"id": "http://cm.micro.blog/2017/09/09/enjoying-the-ride.html",
 	      	
-			"content_html": "<p>Enjoying the ride</p>\n\n<p><img src=\"http://techartjam.com/uploads/2017/bc215f0ec6.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"content_html": "<p>Enjoying the ride</p>\n\n<p><img src=\"http://chadmoore.net/uploads/2017/bc215f0ec6.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2017-09-09T16:14:00-04:00",
 			"url": "http://chadmoore.net/2017/09/09/enjoying-the-ride.html"
+		},
+		
+		{
+			"id": "http://cm.micro.blog/2017/09/07/great-talk-with.html",
+	      	
+			"content_html": "<p>Great talk with a friend tonight. Solid ideas exchanged and built upon. I try to do these calls every six weeks. Been slacking for the last several months. Good to get going again. <a href=\"http://wherethelightgathers.com/e6w\">wherethelightgathers.com/e6w</a></p>\n",
+			"date_published": "2017-09-07T19:52:00-04:00",
+			"url": "http://chadmoore.net/2017/09/07/great-talk-with.html"
 		}
 		
 	]
