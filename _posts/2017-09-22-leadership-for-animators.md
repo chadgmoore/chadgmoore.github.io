@@ -9,4 +9,4 @@ I gave a talk on Leadership for Animators (and other creative people too) for th
 
 The premise of the talk is that there's a lack of good leadership in animation related businesses, and I have some thoughts I wanted to share on that based on my successes and (many) mistakes as a leader in those areas. 
 
-Here's the [presentation (pdf, includes speaker notes)](https://www.facebook.com/groups/448381015494577/), if anyone is interested. 
+Here's the [presentation (pdf, includes speaker notes)](https://www.dropbox.com/s/34nkwmq3jr4545p/leadership%20for%20animators.pdf?dl=0), if anyone is interested. 
