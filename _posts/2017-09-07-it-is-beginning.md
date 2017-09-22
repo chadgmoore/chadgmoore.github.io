@@ -6,4 +6,4 @@ guid: http://cm.micro.blog/2017/09/07/it-is-beginning.html
 ---
 It is beginning. 
 
-<img src="http://techartjam.com/uploads/2017/b734e6d13c.jpg" width="600" height="600" />
+<img src="http://chadmoore.net/uploads/2017/b734e6d13c.jpg" width="600" height="600" />
