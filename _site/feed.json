@@ -6,6 +6,16 @@
 	"items": [
 		
 		{
+			"id": "http://cm.micro.blog/2017/09/22/the-other-chad.html",
+	      	
+			"title": "The other Chad won't mind",
+			
+			"content_html": "<p>I’ve gone back to my roots. After switching blogging platforms and moving my blog to several different domain names, I’m just going back to where it all started. With the ability to long form post here on micro.blog, the great community that’s building here, and the indy web movement, I’ve decided to just post it all on chadmoore.net with micro.blog as my blogging platform. </p>\n\n<p>I’ve had this domain for years, and though about moving away from it, as there’s a photographer by the same name. In an effort to avoid confusion. But anyone who knows me online from my past life as an animator, and game developer remembers that url. I think the other Chad won’t mind. Our web presences are pretty different. </p>\n",
+			"date_published": "2017-09-21T23:13:00-04:00",
+			"url": "http://chadmoore.net/2017/09/21/the-other-chad.html"
+		},
+		
+		{
 			"id": "http://cm.micro.blog/2017/09/22/gratitude.html",
 	      	
 			"title": "Gratitude",
@@ -77,14 +87,6 @@
 			"content_html": "<p>Enjoying the ride</p>\n\n<p><img src=\"http://chadmoore.net/uploads/2017/bc215f0ec6.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2017-09-09T16:14:00-04:00",
 			"url": "http://chadmoore.net/2017/09/09/enjoying-the-ride.html"
-		},
-		
-		{
-			"id": "http://cm.micro.blog/2017/09/07/great-talk-with.html",
-	      	
-			"content_html": "<p>Great talk with a friend tonight. Solid ideas exchanged and built upon. I try to do these calls every six weeks. Been slacking for the last several months. Good to get going again. <a href=\"http://wherethelightgathers.com/e6w\">wherethelightgathers.com/e6w</a></p>\n",
-			"date_published": "2017-09-07T19:52:00-04:00",
-			"url": "http://chadmoore.net/2017/09/07/great-talk-with.html"
 		}
 		
 	]
