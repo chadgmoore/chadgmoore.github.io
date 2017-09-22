@@ -6,6 +6,16 @@
 	"items": [
 		
 		{
+			"id": "http://cm.micro.blog/2017/09/22/clean-slate.html",
+	      	
+			"title": "Clean Slate",
+			
+			"content_html": "<p>Now that I’ve committed to micro.blog and my old website as the domain name, I am leaving my previous writing sort-of abandoned on <a href=\"http://wherethelightgathers.com\">Where the Light Gathers</a>. Maybe I’ll move it over, or figure out that .htaccssesserssssasas (that’s the correct spellling, right?) trick to forward it all. Maybe, someday.  </p>\n\n<p>Or not. A fresh, clean slate is kinda nice to be honest. </p>\n",
+			"date_published": "2017-09-22T08:01:00-04:00",
+			"url": "http://chadmoore.net/2017/09/22/clean-slate.html"
+		},
+		
+		{
 			"id": "http://cm.micro.blog/2017/09/22/leadership-for-animators.html",
 	      	
 			"title": "Leadership for Animators",
@@ -81,14 +91,6 @@
 			"content_html": "<p>While at pet shop looking at hamsters. </p>\n\n<p>Me: man it takes a lot of those things to make a <em>ham-sandwich</em></p>\n\n<p>Kids: gasp!</p>\n\n<p>Me: you kids don’t like my jokes, huh?</p>\n\n<p>Daughter: we would if they were funny </p>\n",
 			"date_published": "2017-09-14T20:12:00-04:00",
 			"url": "http://chadmoore.net/2017/09/14/while-at-pet.html"
-		},
-		
-		{
-			"id": "http://cm.micro.blog/2017/09/13/gave-my-leadership.html",
-	      	
-			"content_html": "<p>Gave my Leadership for Animators (and other creative people too) talk tonight. Good mix of students and working animators. Great questions from the crowd. </p>\n",
-			"date_published": "2017-09-12T23:49:00-04:00",
-			"url": "http://chadmoore.net/2017/09/12/gave-my-leadership.html"
 		}
 		
 	]
