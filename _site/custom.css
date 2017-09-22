@@ -10,6 +10,7 @@ body {
 
 a.site-title, .site-nav, .post-meta {
   font-family: 'Rubik', sans-serif;
+  color: #828282;
 }
 
 .site-header {
