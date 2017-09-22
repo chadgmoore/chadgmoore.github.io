@@ -32,14 +32,6 @@
 		},
 		
 		{
-			"id": "http://cm.micro.blog/2017/09/18/httpsaudionoteshkmahspibyo.html",
-	      	
-			"content_html": "<p><a href=\"https://audionot.es/hkMahSPiBYO\">audionot.es/hkMahSPiB…</a></p>\n",
-			"date_published": "2017-09-18T15:45:00-04:00",
-			"url": "http://chadmoore.net/2017/09/18/httpsaudionoteshkmahspibyo.html"
-		},
-		
-		{
 			"id": "http://cm.micro.blog/2017/09/18/intersting-webinar-upcoming.html",
 	      	
 			"content_html": "<p>Intersting webinar upcoming for applying Design Thinking to your every day work: <a href=\"https://mural.co/webinars/luma/\">mural.co/webinars/…</a></p>\n",
@@ -85,6 +77,14 @@
 			"content_html": "<p>Enjoying the ride</p>\n\n<p><img src=\"http://techartjam.com/uploads/2017/bc215f0ec6.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2017-09-09T16:14:00-04:00",
 			"url": "http://chadmoore.net/2017/09/09/enjoying-the-ride.html"
+		},
+		
+		{
+			"id": "http://cm.micro.blog/2017/09/07/great-talk-with.html",
+	      	
+			"content_html": "<p>Great talk with a friend tonight. Solid ideas exchanged and built upon. I try to do these calls every six weeks. Been slacking for the last several months. Good to get going again. <a href=\"http://wherethelightgathers.com/e6w\">wherethelightgathers.com/e6w</a></p>\n",
+			"date_published": "2017-09-07T19:52:00-04:00",
+			"url": "http://chadmoore.net/2017/09/07/great-talk-with.html"
 		}
 		
 	]
