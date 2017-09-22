@@ -10,7 +10,6 @@ body {
 
 a.site-title, .site-nav, .post-meta {
   font-family: 'Rubik', sans-serif;
-  color: #828282;
 }
 
 .site-header {
@@ -50,6 +49,7 @@ img {
 
 .post-header {
   margin-bottom: 0px;
+  font-size: 12px;
 }
 
 .post-list > li {
