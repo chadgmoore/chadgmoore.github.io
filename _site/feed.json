@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://cm.micro.blog/2017/09/26/hey-siri-remind.html",
+	      	
+			"content_html": "<p>Hey Siri, remind me every time I’m browsing a website that has a comment section to not read the comments. </p>\n",
+			"date_published": "2017-09-26T19:51:00-04:00",
+			"url": "http://chadmoore.net/2017/09/26/hey-siri-remind.html"
+		},
+		
+		{
 			"id": "http://cm.micro.blog/2017/09/24/right-before-sunrise.html",
 	      	
 			"content_html": "<p>Right before sunrise this morning. Winslow Campground, Freeport, Maine. This picture does not do it justice. </p>\n\n<p><img src=\"http://chadmoore.net/uploads/2017/c64650f80c.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -85,14 +93,6 @@
 			"content_html": "<p>Intersting webinar upcoming for applying Design Thinking to your every day work: <a href=\"https://mural.co/webinars/luma/\">mural.co/webinars/…</a></p>\n",
 			"date_published": "2017-09-18T14:52:00-04:00",
 			"url": "http://chadmoore.net/2017/09/18/intersting-webinar-upcoming.html"
-		},
-		
-		{
-			"id": "http://cm.micro.blog/2017/09/18/been-thinking-of.html",
-	      	
-			"content_html": "<p>Been thinking of making a Markdown course. Curious to know how you all learned Markdown originally? Do youuse it just here on Micro.blog or where else?</p>\n",
-			"date_published": "2017-09-18T14:04:00-04:00",
-			"url": "http://chadmoore.net/2017/09/18/been-thinking-of.html"
 		}
 		
 	]
