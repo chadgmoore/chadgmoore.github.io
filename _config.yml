@@ -1,10 +1,4 @@
-# - title: "[TITLE]"
-# - description: "Powered by <a href=\"http://micro.blog/\">Micro.blog</a>."
-# - base# - url: "[PATH]" # e.g. /manton or /az/azasdfasdf
-# - url: "http://[HOSTNAME]" # the base hostname & protocol for your site
-# - markdown: kramdown
-# - user# - name: "[USERNAME]"
-# - permalink: /:year/:month/:slug/
+
 title: "Chad Moore"
 tagline: ""
 description: "Follow <a href=\"https://micro.blog/cm\">@cm on Micro.blog</a>."
