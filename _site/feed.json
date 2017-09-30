@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://cm.micro.blog/2017/09/30/first-fire-in.html",
+	      	
+			"content_html": "<p>First fire in the new home’s fireplace. Coffee by the crackling fire is pretty great. </p>\n",
+			"date_published": "2017-09-30T15:19:00-04:00",
+			"url": "http://chadmoore.net/2017/09/30/first-fire-in.html"
+		},
+		
+		{
 			"id": "http://cm.micro.blog/2017/09/28/i-was-grateful.html",
 	      	
 			"content_html": "<blockquote>\n  <p>I was grateful that Facebook had given me the chance to talk to an unknown relation, but awed and disconcerted by its apparent omniscience.</p>\n</blockquote>\n\n<p>Talk about a double edged sword. This is the reason I flip-flop between keeping and deleting my Facebook account. Also, why I’d like the Amazon Echo, but am disturbed by the always-on listening for data collection. </p>\n\n<p><a href=\"https://gizmodo.com/facebook-figured-out-my-family-secrets-and-it-wont-tel-1797696163\">gizmodo.com/facebook-…</a></p>\n",
@@ -81,16 +89,6 @@
 			"content_html": "<p>I gave a talk on Leadership for Animators (and other creative people too) for the AniMAtic Boston group last week. You can find them on FaceBook on thier <a href=\"https://www.facebook.com/groups/448381015494577/\">public group page</a>. </p>\n\n<p>The premise of the talk is that there’s a lack of good leadership in animation related businesses, and I have some thoughts I wanted to share on that based on my successes and (many) mistakes as a leader in those areas. </p>\n\n<p>Here’s the <a href=\"https://www.dropbox.com/s/34nkwmq3jr4545p/leadership%20for%20animators.pdf?dl=0\">presentation (pdf, includes speaker notes)</a>, if anyone is interested. </p>\n",
 			"date_published": "2017-09-22T07:55:00-04:00",
 			"url": "http://chadmoore.net/2017/09/22/leadership-for-animators.html"
-		},
-		
-		{
-			"id": "http://cm.micro.blog/2017/09/22/the-other-chad.html",
-	      	
-			"title": "The other Chad won't mind",
-			
-			"content_html": "<p>I’ve gone back to my roots. After switching blogging platforms and moving my blog to several different domain names, I’m just going back to where it all started. With the ability to long form post here on micro.blog, the great community that’s building here, and the indy web movement, I’ve decided to just post it all on chadmoore.net with micro.blog as my blogging platform. </p>\n\n<p>I’ve had this domain for years, and though about moving away from it, as there’s a photographer by the same name. In an effort to avoid confusion. But anyone who knows me online from my past life as an animator, and game developer remembers that url. I think the other Chad won’t mind. Our web presences are pretty different. </p>\n",
-			"date_published": "2017-09-21T23:13:00-04:00",
-			"url": "http://chadmoore.net/2017/09/21/the-other-chad.html"
 		}
 		
 	]
