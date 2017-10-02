@@ -2,7 +2,7 @@
 layout: post
 title: "Gratitude"
 microblog: false
-date: 2017-09-21 22:03 -0400
+date: 2017-09-21 21:03 -0500
 guid: http://cm.micro.blog/2017/09/22/gratitude.html
 ---
 [Rob Hope](https://twitter.com/robhope) posted a nice note on [Motivation](https://robhope.com/blog/motivation/). I fall on and off the wagon with what he's mentioned in point 1 and 2 too much. I'm not doing enough of either of those items regularly right now. I need to get back on track with those. 
