@@ -1,7 +1,7 @@
 ---
 layout: post
 microblog: true
-date: 2017-09-06 22:02 -0400
+date: 2017-09-06 21:02 -0500
 guid: http://cm.micro.blog/2017/09/07/it-is-beginning.html
 ---
 It is beginning. 
