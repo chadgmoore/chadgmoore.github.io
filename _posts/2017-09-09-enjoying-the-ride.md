@@ -1,7 +1,7 @@
 ---
 layout: post
 microblog: true
-date: 2017-09-09 16:14 -0400
+date: 2017-09-09 15:14 -0500
 guid: http://cm.micro.blog/2017/09/09/enjoying-the-ride.html
 ---
 Enjoying the ride
