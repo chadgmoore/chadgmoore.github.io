@@ -1,7 +1,7 @@
 ---
 layout: post
 microblog: true
-date: 2017-08-30 11:57 -0400
+date: 2017-08-30 10:57 -0500
 guid: http://cm.micro.blog/2017/08/30/interesting-note-on.html
 ---
 Interesting note on digital vs. analog note taking. I'm mostly digital, and tryng to find my way back to analog. 
