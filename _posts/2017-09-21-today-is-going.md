@@ -1,7 +1,7 @@
 ---
 layout: post
 microblog: true
-date: 2017-09-21 06:46 -0400
+date: 2017-09-21 05:46 -0500
 guid: http://cm.micro.blog/2017/09/21/today-is-going.html
 ---
 Today is going to be a good day. 
