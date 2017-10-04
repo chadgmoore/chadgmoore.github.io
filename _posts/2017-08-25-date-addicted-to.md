@@ -1,7 +1,7 @@
 ---
 layout: post
 microblog: true
-date: 2017-08-25 07:04 -0500
+date: 2017-08-25 08:04 -0400
 guid: http://cm.micro.blog/2017/08/25/date-addicted-to.html
 ---
 date: 2017-07-18-07-22-30
