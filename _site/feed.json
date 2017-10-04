@@ -6,10 +6,26 @@
 	"items": [
 		
 		{
+			"id": "http://cm.micro.blog/2017/10/04/hello-philadelphia.html",
+	      	
+			"content_html": "<p>Hello, Philadelphia. </p>\n",
+			"date_published": "2017-10-04T15:38:00-04:00",
+			"url": "http://chadmoore.net/2017/10/04/hello-philadelphia.html"
+		},
+		
+		{
+			"id": "http://cm.micro.blog/2017/10/04/i-cant-wait.html",
+	      	
+			"content_html": "<p>I can’t wait for the puck to drop tomorrow. Ah, Hockey season.</p>\n",
+			"date_published": "2017-10-04T15:37:00-04:00",
+			"url": "http://chadmoore.net/2017/10/04/i-cant-wait.html"
+		},
+		
+		{
 			"id": "http://cm.micro.blog/2017/10/02/hello-san-antonio.html",
 	      	
 			"content_html": "<p>Hello, San Antonio.</p>\n",
-			"date_published": "2017-10-02T15:56:00-05:00",
+			"date_published": "2017-10-02T16:56:00-04:00",
 			"url": "http://chadmoore.net/2017/10/02/hello-san-antonio.html"
 		},
 		
@@ -17,7 +33,7 @@
 			"id": "http://cm.micro.blog/2017/09/30/first-fire-in.html",
 	      	
 			"content_html": "<p>First fire in the new home’s fireplace. Coffee by the crackling fire is pretty great. </p>\n",
-			"date_published": "2017-09-30T14:19:00-05:00",
+			"date_published": "2017-09-30T15:19:00-04:00",
 			"url": "http://chadmoore.net/2017/09/30/first-fire-in.html"
 		},
 		
@@ -25,7 +41,7 @@
 			"id": "http://cm.micro.blog/2017/09/28/i-was-grateful.html",
 	      	
 			"content_html": "<blockquote>\n  <p>I was grateful that Facebook had given me the chance to talk to an unknown relation, but awed and disconcerted by its apparent omniscience.</p>\n</blockquote>\n\n<p>Talk about a double edged sword. This is the reason I flip-flop between keeping and deleting my Facebook account. Also, why I’d like the Amazon Echo, but am disturbed by the always-on listening for data collection. </p>\n\n<p><a href=\"https://gizmodo.com/facebook-figured-out-my-family-secrets-and-it-wont-tel-1797696163\">gizmodo.com/facebook-…</a></p>\n",
-			"date_published": "2017-09-28T08:33:00-05:00",
+			"date_published": "2017-09-28T09:33:00-04:00",
 			"url": "http://chadmoore.net/2017/09/28/i-was-grateful.html"
 		},
 		
@@ -33,7 +49,7 @@
 			"id": "http://cm.micro.blog/2017/09/28/the-copy-paste.html",
 	      	
 			"content_html": "<p>The copy / paste across devices (iOS and Sierra) is really nice. I’m a clipboard manager user (currently FlyCut on MacOS). Wondering how long until multi-copy/paste will be a default in the OS?</p>\n",
-			"date_published": "2017-09-28T06:46:00-05:00",
+			"date_published": "2017-09-28T07:46:00-04:00",
 			"url": "http://chadmoore.net/2017/09/28/the-copy-paste.html"
 		},
 		
@@ -41,7 +57,7 @@
 			"id": "http://cm.micro.blog/2017/09/28/have-you-seen.html",
 	      	
 			"content_html": "<p>Have you seen the screen shot markup tools in iOS 11 yet? The drawing tools are pretty handy. </p>\n\n<p><img src=\"http://chadmoore.net/uploads/2017/f06d71a714.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2017-09-27T20:08:00-05:00",
+			"date_published": "2017-09-27T21:08:00-04:00",
 			"url": "http://chadmoore.net/2017/09/27/have-you-seen.html"
 		},
 		
@@ -49,7 +65,7 @@
 			"id": "http://cm.micro.blog/2017/09/27/trying-to-simplify.html",
 	      	
 			"content_html": "<p>Trying to simplify and reduce distractions. </p>\n\n<p><img src=\"http://chadmoore.net/uploads/2017/f23ea8df7e.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2017-09-27T14:45:00-05:00",
+			"date_published": "2017-09-27T15:45:00-04:00",
 			"url": "http://chadmoore.net/2017/09/27/trying-to-simplify.html"
 		},
 		
@@ -57,7 +73,7 @@
 			"id": "http://cm.micro.blog/2017/09/26/hey-siri-remind.html",
 	      	
 			"content_html": "<p>Hey Siri, remind me every time I’m browsing a website that has a comment section to not read the comments. </p>\n",
-			"date_published": "2017-09-26T18:51:00-05:00",
+			"date_published": "2017-09-26T19:51:00-04:00",
 			"url": "http://chadmoore.net/2017/09/26/hey-siri-remind.html"
 		},
 		
@@ -65,28 +81,8 @@
 			"id": "http://cm.micro.blog/2017/09/24/right-before-sunrise.html",
 	      	
 			"content_html": "<p>Right before sunrise this morning. Winslow Campground, Freeport, Maine. This picture does not do it justice. </p>\n\n<p><img src=\"http://chadmoore.net/uploads/2017/c64650f80c.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2017-09-24T16:58:00-05:00",
+			"date_published": "2017-09-24T17:58:00-04:00",
 			"url": "http://chadmoore.net/2017/09/24/right-before-sunrise.html"
-		},
-		
-		{
-			"id": "http://cm.micro.blog/2017/09/22/microcast-number.html",
-	      	
-			"title": "Microcast number 1",
-			
-			"content_html": "<p>I think I just microcasted!? Recorded the audio in Just Press Record, which is a fantastic iOS app. A couple edits in Audacity, and posted to Dropbox. I’ll need to figure out a better hosting option. Thanks <a href=\"https://micro.blog/cdevroe\">@cdevroe</a> for the tip about Control Center.</p>\n\n<p><a href=\"https://www.dropbox.com/s/ap54hrr9b4wmz8l/12-32-47.mp3?dl=0\">www.dropbox.com/s/ap54hrr…</a></p>\n",
-			"date_published": "2017-09-22T16:35:00-05:00",
-			"url": "http://chadmoore.net/2017/09/22/microcast-number.html"
-		},
-		
-		{
-			"id": "http://cm.micro.blog/2017/09/22/clean-slate.html",
-	      	
-			"title": "Clean Slate",
-			
-			"content_html": "<p>Now that I’ve committed to micro.blog and my old website as the domain name, I am leaving my previous writing sort-of abandoned on <a href=\"http://wherethelightgathers.com\">Where the Light Gathers</a>. Maybe I’ll move it over, or figure out that .htaccssesserssssasas (that’s the correct spellling, right?) trick to forward it all. Maybe, someday.  </p>\n\n<p>Or not. A fresh, clean slate is kinda nice to be honest. </p>\n",
-			"date_published": "2017-09-22T07:01:00-05:00",
-			"url": "http://chadmoore.net/2017/09/22/clean-slate.html"
 		}
 		
 	]
