@@ -1,7 +1,7 @@
 ---
 layout: post
 microblog: true
-date: 2017-09-17 20:25 -0500
+date: 2017-09-17 21:25 -0400
 guid: http://cm.micro.blog/2017/09/18/lots-of-clearing.html
 ---
 Lots of clearing being done at Stratham Hill Park. Not sure if there was a fire, or other reason. Sadly there were too many wasp nests on the fire tower to climb. But a good short hike for the family nonetheless. 
