@@ -3,7 +3,7 @@ title: "Now"
 permalink: "/now/"
 layout: page
 order: 2
-date: 2017-09-21 21:16 -0500
+date: 2017-09-21 22:16 -0400
 ---
 I live near Portsmouth, New Hampshire. I am working hard to be the best parent, and husband I can be. In addition to my day job, I am actively working on the following:
 
