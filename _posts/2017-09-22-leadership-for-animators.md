@@ -2,7 +2,7 @@
 layout: post
 title: "Leadership for Animators"
 microblog: false
-date: 2017-09-22 06:55 -0500
+date: 2017-09-22 07:55 -0400
 guid: http://cm.micro.blog/2017/09/22/leadership-for-animators.html
 ---
 I gave a talk on Leadership for Animators (and other creative people too) for the AniMAtic Boston group last week. You can find them on FaceBook on thier [public group page](https://www.facebook.com/groups/448381015494577/). 
