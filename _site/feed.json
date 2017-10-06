@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://cm.micro.blog/2017/10/06/im-home-from.html",
+	      	
+			"content_html": "<p>I’m home from a long business trip, it’s Friday, and hockey season starts tonight for my islanders. These are good things 👍👌🎸🍕🍺🤘🏒</p>\n",
+			"date_published": "2017-10-06T16:17:00-04:00",
+			"url": "http://chadmoore.net/2017/10/06/im-home-from.html"
+		},
+		
+		{
 			"id": "http://cm.micro.blog/2017/10/05/almost-home-phl.html",
 	      	
 			"content_html": "<p>Almost home PHL &gt; BOS </p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Trying to simplify and reduce distractions. </p>\n\n<p><img src=\"http://chadmoore.net/uploads/2017/f23ea8df7e.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2017-09-27T15:45:00-04:00",
 			"url": "http://chadmoore.net/2017/09/27/trying-to-simplify.html"
-		},
-		
-		{
-			"id": "http://cm.micro.blog/2017/09/26/hey-siri-remind.html",
-	      	
-			"content_html": "<p>Hey Siri, remind me every time I’m browsing a website that has a comment section to not read the comments. </p>\n",
-			"date_published": "2017-09-26T19:51:00-04:00",
-			"url": "http://chadmoore.net/2017/09/26/hey-siri-remind.html"
 		}
 		
 	]
