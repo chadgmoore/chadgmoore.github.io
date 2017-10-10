@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://cm.micro.blog/2017/10/10/working-from-the.html",
+	      	
+			"content_html": "<p>Working from the Boston office today. Any Boston microbloggers near Chinatown / South Station? ☕️</p>\n",
+			"date_published": "2017-10-10T09:12:00-04:00",
+			"url": "http://chadmoore.net/2017/10/10/working-from-the.html"
+		},
+		
+		{
 			"id": "http://cm.micro.blog/2017/10/06/im-home-from.html",
 	      	
 			"content_html": "<p>I’m home from a long business trip, it’s Friday, and hockey season starts tonight for my islanders. These are good things 👍👌🎸🍕🍺🤘🏒</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Have you seen the screen shot markup tools in iOS 11 yet? The drawing tools are pretty handy. </p>\n\n<p><img src=\"http://chadmoore.net/uploads/2017/f06d71a714.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2017-09-27T21:08:00-04:00",
 			"url": "http://chadmoore.net/2017/09/27/have-you-seen.html"
-		},
-		
-		{
-			"id": "http://cm.micro.blog/2017/09/27/trying-to-simplify.html",
-	      	
-			"content_html": "<p>Trying to simplify and reduce distractions. </p>\n\n<p><img src=\"http://chadmoore.net/uploads/2017/f23ea8df7e.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2017-09-27T15:45:00-04:00",
-			"url": "http://chadmoore.net/2017/09/27/trying-to-simplify.html"
 		}
 		
 	]
