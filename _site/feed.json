@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://cm.micro.blog/2017/10/11/today-is-a.html",
+	      	
+			"content_html": "<p>Today is a <strong>Check Your Head</strong> kinda day. </p>\n",
+			"date_published": "2017-10-11T10:23:00-04:00",
+			"url": "http://chadmoore.net/2017/10/11/today-is-a.html"
+		},
+		
+		{
 			"id": "http://cm.micro.blog/2017/10/10/working-from-the.html",
 	      	
 			"content_html": "<p>Working from the Boston office today. Any Boston microbloggers near Chinatown / South Station? ☕️</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>The copy / paste across devices (iOS and Sierra) is really nice. I’m a clipboard manager user (currently FlyCut on MacOS). Wondering how long until multi-copy/paste will be a default in the OS?</p>\n",
 			"date_published": "2017-09-28T07:46:00-04:00",
 			"url": "http://chadmoore.net/2017/09/28/the-copy-paste.html"
-		},
-		
-		{
-			"id": "http://cm.micro.blog/2017/09/28/have-you-seen.html",
-	      	
-			"content_html": "<p>Have you seen the screen shot markup tools in iOS 11 yet? The drawing tools are pretty handy. </p>\n\n<p><img src=\"http://chadmoore.net/uploads/2017/f06d71a714.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2017-09-27T21:08:00-04:00",
-			"url": "http://chadmoore.net/2017/09/27/have-you-seen.html"
 		}
 		
 	]
