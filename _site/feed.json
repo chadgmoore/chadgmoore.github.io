@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://cm.micro.blog/2017/10/13/i-received-some.html",
+	      	
+			"content_html": "<p>I received some feedback at work today. It’s time I <em>release the hounds</em>!</p>\n\n<p><img src=\"http://chadmoore.net/uploads/2017/674a8f600f.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2017-10-13T10:24:00-04:00",
+			"url": "http://chadmoore.net/2017/10/13/i-received-some.html"
+		},
+		
+		{
 			"id": "http://cm.micro.blog/2017/10/12/i-cant-even.html",
 	      	
 			"content_html": "<p>I can’t <em>even</em>.</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>First fire in the new home’s fireplace. Coffee by the crackling fire is pretty great. </p>\n",
 			"date_published": "2017-09-30T15:19:00-04:00",
 			"url": "http://chadmoore.net/2017/09/30/first-fire-in.html"
-		},
-		
-		{
-			"id": "http://cm.micro.blog/2017/09/28/i-was-grateful.html",
-	      	
-			"content_html": "<blockquote>\n  <p>I was grateful that Facebook had given me the chance to talk to an unknown relation, but awed and disconcerted by its apparent omniscience.</p>\n</blockquote>\n\n<p>Talk about a double edged sword. This is the reason I flip-flop between keeping and deleting my Facebook account. Also, why I’d like the Amazon Echo, but am disturbed by the always-on listening for data collection. </p>\n\n<p><a href=\"https://gizmodo.com/facebook-figured-out-my-family-secrets-and-it-wont-tel-1797696163\">gizmodo.com/facebook-…</a></p>\n",
-			"date_published": "2017-09-28T09:33:00-04:00",
-			"url": "http://chadmoore.net/2017/09/28/i-was-grateful.html"
 		}
 		
 	]
