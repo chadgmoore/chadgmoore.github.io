@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://cm.micro.blog/2017/10/15/overheard-this-isnt.html",
+	      	
+			"content_html": "<p>Overheard: This isn’t coffee, it’s coffee flavored water. </p>\n",
+			"date_published": "2017-10-15T06:44:00-04:00",
+			"url": "http://chadmoore.net/2017/10/15/overheard-this-isnt.html"
+		},
+		
+		{
 			"id": "http://cm.micro.blog/2017/10/13/i-received-some.html",
 	      	
 			"content_html": "<p>I received some feedback at work today. It’s time I <em>release the hounds</em>!</p>\n\n<p><img src=\"http://chadmoore.net/uploads/2017/674a8f600f.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Hello, San Antonio.</p>\n",
 			"date_published": "2017-10-02T16:56:00-04:00",
 			"url": "http://chadmoore.net/2017/10/02/hello-san-antonio.html"
-		},
-		
-		{
-			"id": "http://cm.micro.blog/2017/09/30/first-fire-in.html",
-	      	
-			"content_html": "<p>First fire in the new home’s fireplace. Coffee by the crackling fire is pretty great. </p>\n",
-			"date_published": "2017-09-30T15:19:00-04:00",
-			"url": "http://chadmoore.net/2017/09/30/first-fire-in.html"
 		}
 		
 	]
