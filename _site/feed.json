@@ -6,6 +6,16 @@
 	"items": [
 		
 		{
+			"id": "http://cm.micro.blog/2017/10/17/panobook.html",
+	      	
+			"title": "Panobook",
+			
+			"content_html": "<p><a href=\"https://micro.blog/craigmcclellan\">Craig McClellan</a> and I had a brief discussion of the Panobook on <a href=\"micro.blog\">micro.blog</a>. I wanted to give him a longer response, and get my own thoughts in order for his question of:</p>\n\n<blockquote>\n  <p>Any thoughts on how you’re going to use it?</p>\n</blockquote>\n\n<p>I’ve backed the <a href=\"https://www.studioneat.com/products/panobook\">Panobook</a> on <a href=\"https://www.kickstarter.com/projects/danprovost/panobook-a-notebook-for-your-desk\">Kickstarter</a>. I love the format of the notebook, I think it will be ideal sitting on the desk, next to the laptop. </p>\n\n<p>I’m trying to get back into the habit of <a href=\"http://www.danpink.com/pinkcast/pinkcast-2-2-why-you-should-take-notes-by-hand/\">writing down notes</a>, versus typing them on a computer. I believe that writing allows me to synthesize, versus the transcribing that I fall into when typing. </p>\n\n<p>I’ve been using a modified <a href=\"http://bulletjournal.com/\">Bullet Journal</a> for the entire year (minus a 5 or 6 week gap). I don’t go all-in on that model, it’s mostly just notes and lists for the day, and rolling notes for each project I’m working on at work.</p>\n\n<p>I’m hoping to use the Panobook for some side projects/ideas I’m trying to validate. I’ll likely set it up like a bullet journal’s index and page numbering workflows. But I’ll use it specifically for the project work, not day-to-day note taking. I’ll use my moleskin bullet journal for work, and personal life, and the Panaobook for the side projects. A separation of concerns, if you will. </p>\n\n<p>I’ll be writing feature lists, designing UX flows and screens, and various other project related notes. The one thing I’m most curious about is validating the ideas before committing to build them. Not sure if this or any notebook is designed for figuring that out, but I’ll likely reserve some pages for validation flows of some kind. </p>\n",
+			"date_published": "2017-10-17T10:29:00-04:00",
+			"url": "http://chadmoore.net/2017/10/17/panobook.html"
+		},
+		
+		{
 			"id": "http://cm.micro.blog/2017/10/17/does-anyone-have.html",
 	      	
 			"content_html": "<p>Does anyone have a working Safari browser extension for <a href=\"http://brettterpstra.com/projects/nvalt/\">nvALT</a>? </p>\n",
@@ -75,14 +85,6 @@
 			"content_html": "<p>Hello, Philadelphia. </p>\n",
 			"date_published": "2017-10-04T15:38:00-04:00",
 			"url": "http://chadmoore.net/2017/10/04/hello-philadelphia.html"
-		},
-		
-		{
-			"id": "http://cm.micro.blog/2017/10/04/i-cant-wait.html",
-	      	
-			"content_html": "<p>I can’t wait for the puck to drop tomorrow. Ah, Hockey season.</p>\n",
-			"date_published": "2017-10-04T15:37:00-04:00",
-			"url": "http://chadmoore.net/2017/10/04/i-cant-wait.html"
 		}
 		
 	]
