@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://cm.micro.blog/2017/10/17/does-anyone-have.html",
+	      	
+			"content_html": "<p>Does anyone have a working Safari browser extension for <a href=\"http://brettterpstra.com/projects/nvalt/\">nvALT</a>? </p>\n",
+			"date_published": "2017-10-17T07:45:00-04:00",
+			"url": "http://chadmoore.net/2017/10/17/does-anyone-have.html"
+		},
+		
+		{
 			"id": "http://cm.micro.blog/2017/10/15/overheard-this-isnt.html",
 	      	
 			"content_html": "<p>Overheard: This isn’t coffee, it’s coffee flavored water. </p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>I can’t wait for the puck to drop tomorrow. Ah, Hockey season.</p>\n",
 			"date_published": "2017-10-04T15:37:00-04:00",
 			"url": "http://chadmoore.net/2017/10/04/i-cant-wait.html"
-		},
-		
-		{
-			"id": "http://cm.micro.blog/2017/10/02/hello-san-antonio.html",
-	      	
-			"content_html": "<p>Hello, San Antonio.</p>\n",
-			"date_published": "2017-10-02T16:56:00-04:00",
-			"url": "http://chadmoore.net/2017/10/02/hello-san-antonio.html"
 		}
 		
 	]
